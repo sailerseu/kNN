@@ -5,5 +5,5 @@ Hadoop的相关源码可以在打包后，通过hadoop jar XXX.jar 执行
 Spark的执行需要借助于yarn-master
 
 spark-submit --class xxx.xxx --master yarn-cluster ....
-
+  
 This is a repository for knn join, and they could be orgonized into three groups, i.e. centralized, hadoop based and Spark based.
